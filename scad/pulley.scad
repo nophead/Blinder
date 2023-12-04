@@ -127,7 +127,7 @@ module idler_stl()
 //! 1. Fit the heatfit insert
 //! 1. Add the grub screw
 module pulley_assembly()
-assembly("pulley") {
+assembly("pulley", ngb = true) {
     stl_colour(pp1_colour) pulley_stl();
 
     translate([-shaft_r + shaft_flat_d + insert_length(insert) + wall, 0, width + boss_h / 2])
@@ -145,7 +145,7 @@ pulley_assembly();
 //! 1. Fit the heatfit insert
 //! 1. Add the grub screw
 module idler_assembly()
-assembly("idler") {
+assembly("idler", ngb = true) {
     stl_colour(pp1_colour) idler_stl();
 
     translate([shaft_r + insert_length(insert) + wall, 0, width + boss_h / 2])
@@ -164,7 +164,7 @@ translate([0, 30])
 //! 1. Fit the heatfit insert
 //! 1. Add the grub screw
 module retainer_assembly()
-assembly("retainer") {
+assembly("retainer", ngb = true) {
     stl_colour(pp1_colour) retainer_stl();
 
     translate([shaft_r + insert_length(insert) + wall, 0, boss_h / 2])

@@ -2,7 +2,7 @@
     {
         "name": "pulley_assembly",
         "big": null,
-        "ngb": false,
+        "ngb": true,
         "zoomed": 0,
         "count": 1,
         "assemblies": {},
@@ -72,7 +72,7 @@
     {
         "name": "retainer_assembly",
         "big": null,
-        "ngb": false,
+        "ngb": true,
         "zoomed": 0,
         "count": 1,
         "assemblies": {},
@@ -95,7 +95,7 @@
     {
         "name": "idler_assembly",
         "big": null,
-        "ngb": false,
+        "ngb": true,
         "zoomed": 0,
         "count": 1,
         "assemblies": {},
