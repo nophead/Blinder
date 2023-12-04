@@ -1,0 +1,23 @@
+base_assembly:
+Vitamins:
+  2 Ball bearing 686ZZ 6mm x 13mm x 5mm
+  8 Heatfit insert M3 x 3mm
+  2 Heatfit insert M2 x 4mm
+  1 Microswitch DM1-00P-110-3
+  1 Nut M8 x 6.5mm brass
+  2 Screw M2 cap x 10mm
+  1 Screw M3 cap x  5mm
+  2 Washer spring M6 x 1.9mm
+  2 Washer star M2 x 0.3mm
+  1 Washer star M3 x 0.5mm
+  2 Washer  M2 x 5mm x 0.3mm
+  1 Washer  M3 x 7mm x 0.5mm
+
+Printed:
+  1 base.stl
+
+Assemblies:
+  1 idler_assembly
+  1 retainer_assembly
+  1 rod_assembly
+  1 switch_slide_assembly

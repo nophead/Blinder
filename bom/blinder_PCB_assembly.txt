@@ -1,0 +1,18 @@
+blinder_PCB_assembly:
+Vitamins:
+  1 JST PH connector 2 way
+  2 JST PH connector 3 way
+  1 LED 3 mm green
+  1 Molex KK header 2 way
+  1 Molex KK housing 2 way
+  1 MULTIWATT11 L6203
+  1 PCB Blinder
+  1 ESP-12F ESP8266 WiFi module
+  1 Ultra Small 3A buck regulator
+  2 SMD capacitor 0805 100n
+  2 SMD capacitor 0805 15n
+  1 SMD capacitor 0805 220n
+  5 SMD resistor 0805 10K 0.125W
+  2 SMD resistor 0805 1K 0.125W
+  1 SMD resistor 0805 2K2 0.125W
+  2 Square button 6mm

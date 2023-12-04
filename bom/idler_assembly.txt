@@ -1,0 +1,7 @@
+idler_assembly:
+Vitamins:
+  1 Heatfit insert M3 x 3mm
+  1 Screw M3 grub x  5mm
+
+Printed:
+  1 idler.stl

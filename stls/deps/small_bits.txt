@@ -1,0 +1,4 @@
+switch_slide.stl
+pulley.stl
+idler.stl
+retainer.stl

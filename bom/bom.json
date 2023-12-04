@@ -1,0 +1,331 @@
+[
+    {
+        "name": "pulley_assembly",
+        "big": null,
+        "ngb": false,
+        "zoomed": 0,
+        "count": 1,
+        "assemblies": {},
+        "vitamins": {
+            "insert(CNCKM3): Heatfit insert M3 x 3mm": {
+                "count": 1
+            },
+            "screw(M3_grub_screw, 5): Screw M3 grub x  5mm": {
+                "count": 1
+            }
+        },
+        "printed": {
+            "pulley.stl": {
+                "count": 1,
+                "colour": "[0.95, 0.95, 0.95]"
+            }
+        },
+        "routed": {}
+    },
+    {
+        "name": "switch_slide_assembly",
+        "big": null,
+        "ngb": false,
+        "zoomed": 0,
+        "count": 1,
+        "assemblies": {},
+        "vitamins": {
+            "microswitch(small_microswitch): Microswitch DM1-00P-110-3": {
+                "count": 1
+            },
+            "insert(F1BM2): Heatfit insert M2 x 4mm": {
+                "count": 2
+            },
+            "washer(M2_washer): Washer  M2 x 5mm x 0.3mm": {
+                "count": 2
+            },
+            "star_washer(M2_washer): Washer star M2 x 0.3mm": {
+                "count": 2
+            },
+            "screw(M2_cap_screw, 10): Screw M2 cap x 10mm": {
+                "count": 2
+            }
+        },
+        "printed": {
+            "switch_slide.stl": {
+                "count": 1,
+                "colour": "[0.95, 0.95, 0.95]"
+            }
+        },
+        "routed": {}
+    },
+    {
+        "name": "rod_assembly",
+        "big": true,
+        "ngb": false,
+        "zoomed": 0,
+        "count": 1,
+        "assemblies": {},
+        "vitamins": {
+            "studding(8, 79): Threaded rod M8 x 79mm - not shown": {
+                "count": 1
+            }
+        },
+        "printed": {},
+        "routed": {}
+    },
+    {
+        "name": "retainer_assembly",
+        "big": null,
+        "ngb": false,
+        "zoomed": 0,
+        "count": 1,
+        "assemblies": {},
+        "vitamins": {
+            "insert(CNCKM3): Heatfit insert M3 x 3mm": {
+                "count": 1
+            },
+            "screw(M3_grub_screw, 5): Screw M3 grub x  5mm": {
+                "count": 1
+            }
+        },
+        "printed": {
+            "retainer.stl": {
+                "count": 1,
+                "colour": "[0.95, 0.95, 0.95]"
+            }
+        },
+        "routed": {}
+    },
+    {
+        "name": "idler_assembly",
+        "big": null,
+        "ngb": false,
+        "zoomed": 0,
+        "count": 1,
+        "assemblies": {},
+        "vitamins": {
+            "insert(CNCKM3): Heatfit insert M3 x 3mm": {
+                "count": 1
+            },
+            "screw(M3_grub_screw, 5): Screw M3 grub x  5mm": {
+                "count": 1
+            }
+        },
+        "printed": {
+            "idler.stl": {
+                "count": 1,
+                "colour": "[0.95, 0.95, 0.95]"
+            }
+        },
+        "routed": {}
+    },
+    {
+        "name": "base_assembly",
+        "big": null,
+        "ngb": false,
+        "zoomed": 0,
+        "count": 1,
+        "assemblies": {
+            "idler_assembly": 1,
+            "retainer_assembly": 1,
+            "rod_assembly": 1,
+            "switch_slide_assembly": 1
+        },
+        "vitamins": {
+            "ball_bearing(BB686): Ball bearing 686ZZ 6mm x 13mm x 5mm": {
+                "count": 2
+            },
+            "spring_washer(M6_washer): Washer spring M6 x 1.9mm": {
+                "count": 2
+            },
+            "nut(M8_nut, brass = true): Nut M8 x 6.5mm brass": {
+                "count": 1
+            },
+            "microswitch(small_microswitch): Microswitch DM1-00P-110-3": {
+                "count": 1
+            },
+            "insert(F1BM2): Heatfit insert M2 x 4mm": {
+                "count": 2
+            },
+            "washer(M2_washer): Washer  M2 x 5mm x 0.3mm": {
+                "count": 2
+            },
+            "star_washer(M2_washer): Washer star M2 x 0.3mm": {
+                "count": 2
+            },
+            "screw(M2_cap_screw, 10): Screw M2 cap x 10mm": {
+                "count": 2
+            },
+            "insert(CNCKM3): Heatfit insert M3 x 3mm": {
+                "count": 8
+            },
+            "washer(M3_washer): Washer  M3 x 7mm x 0.5mm": {
+                "count": 1
+            },
+            "star_washer(M3_washer): Washer star M3 x 0.5mm": {
+                "count": 1
+            },
+            "screw(M3_cap_screw, 5): Screw M3 cap x  5mm": {
+                "count": 1
+            }
+        },
+        "printed": {
+            "base.stl": {
+                "count": 1,
+                "colour": "[0.95, 0.95, 0.95]"
+            }
+        },
+        "routed": {}
+    },
+    {
+        "name": "motor_assembly",
+        "big": null,
+        "ngb": false,
+        "zoomed": 0,
+        "count": 1,
+        "assemblies": {
+            "base_assembly": 1,
+            "pulley_assembly": 1
+        },
+        "vitamins": {
+            "screw(M3_dome_screw, 12): Screw M3 dome x 12mm": {
+                "count": 6
+            }
+        },
+        "printed": {},
+        "routed": {}
+    },
+    {
+        "name": "bracket_assembly",
+        "big": null,
+        "ngb": false,
+        "zoomed": 0,
+        "count": 1,
+        "assemblies": {
+            "motor_assembly": 1
+        },
+        "vitamins": {
+            "washer(M5_washer): Washer  M5 x 10mm x 1mm": {
+                "count": 3
+            },
+            "screw(No8_screw, 30): Screw No8 pan wood x 30mm": {
+                "count": 3
+            },
+            "washer(M3_washer): Washer  M3 x 7mm x 0.5mm": {
+                "count": 3
+            },
+            "screw(M3_cap_screw, 8): Screw M3 cap x  8mm": {
+                "count": 3
+            }
+        },
+        "printed": {
+            "bracket.stl": {
+                "count": 1,
+                "colour": "[0.95, 0.95, 0.95]"
+            }
+        },
+        "routed": {}
+    },
+    {
+        "name": "blinder_PCB_assembly",
+        "big": null,
+        "ngb": false,
+        "zoomed": 0,
+        "count": 1,
+        "assemblies": {},
+        "vitamins": {
+            "pcb(Blinder): PCB Blinder": {
+                "count": 1
+            },
+            "smd_capacitor(CAP0805): SMD capacitor 0805 100n": {
+                "count": 2
+            },
+            "smd_capacitor(CAP0805): SMD capacitor 0805 220n": {
+                "count": 1
+            },
+            "smd_capacitor(CAP0805): SMD capacitor 0805 15n": {
+                "count": 2
+            },
+            "led(LED3mm, \"green\"): LED 3 mm green": {
+                "count": 1
+            },
+            "multiwatt11(\"L6203\"): MULTIWATT11 L6203": {
+                "count": 1
+            },
+            "molex_254(2): Molex KK header 2 way": {
+                "count": 1
+            },
+            "molex_254_housing(2): Molex KK housing 2 way": {
+                "count": 1
+            },
+            "jst_xh_header(jst_ph_header, 3): JST PH connector 3 way": {
+                "count": 2
+            },
+            "jst_xh_header(jst_ph_header, 2): JST PH connector 2 way": {
+                "count": 1
+            },
+            "smd_resistor(RES0805, 10K): SMD resistor 0805 10K 0.125W": {
+                "count": 5
+            },
+            "smd_resistor(RES0805, 2K2): SMD resistor 0805 2K2 0.125W": {
+                "count": 1
+            },
+            "smd_resistor(RES0805, 1K): SMD resistor 0805 1K 0.125W": {
+                "count": 2
+            },
+            "square_button(button_6mm_7): Square button 6mm": {
+                "count": 2
+            },
+            "pcb(tiny_buck): Ultra Small 3A buck regulator": {
+                "count": 1
+            },
+            "pcb(ESP_12F): ESP-12F ESP8266 WiFi module": {
+                "count": 1
+            }
+        },
+        "printed": {},
+        "routed": {}
+    },
+    {
+        "name": "cover_assembly",
+        "big": null,
+        "ngb": false,
+        "zoomed": 0,
+        "count": 1,
+        "assemblies": {
+            "blinder_PCB_assembly": 1
+        },
+        "vitamins": {
+            "screw(M3_cs_cap_screw, 12): Screw M3 cs cap x 12mm": {
+                "count": 1
+            },
+            "washer(M3_washer): Washer  M3 x 7mm x 0.5mm": {
+                "count": 1
+            },
+            "nut(M3_nut, nyloc = true): Nut M3 x 2.4mm nyloc": {
+                "count": 1
+            }
+        },
+        "printed": {
+            "cover.stl": {
+                "count": 1,
+                "colour": "[0.95, 0.95, 0.95]"
+            }
+        },
+        "routed": {}
+    },
+    {
+        "name": "main_assembly",
+        "big": null,
+        "ngb": false,
+        "zoomed": 0,
+        "count": 1,
+        "assemblies": {
+            "cover_assembly": 1,
+            "bracket_assembly": 1
+        },
+        "vitamins": {
+            "screw(M3_cs_cap_screw, 5): Screw M3 cs cap x  5mm": {
+                "count": 4
+            }
+        },
+        "printed": {},
+        "routed": {}
+    }
+]

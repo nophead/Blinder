@@ -1,0 +1,3 @@
+rod_assembly:
+Vitamins:
+  1 Threaded rod M8 x 79mm - not shown

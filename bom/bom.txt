@@ -1,0 +1,72 @@
+Vitamins:
+                               S
+    B                          w
+    l                          i
+    i                          t
+    n                    R     c
+    d  B                 e     h
+    e  r              P  t      
+    r  a  C  I     M  u  a     s
+ B     c  o  d  M  o  l  i     l
+ a  p  k  v  l  a  t  l  n  R  i
+ s  c  e  e  e  i  o  e  e  o  d
+ e  b  t  r  r  n  r  y  r  d  e
+ 2|  |  |  |  |  |  |  |  |  |  |  2 Ball bearing 686ZZ 6mm x 13mm x 5mm
+ 8|  |  |  | 1|  |  | 1| 1|  |  | 11 Heatfit insert M3 x 3mm
+ 2|  |  |  |  |  |  |  |  |  | 2|  4 Heatfit insert M2 x 4mm
+  | 1|  |  |  |  |  |  |  |  |  |  1 JST PH connector 2 way
+  | 2|  |  |  |  |  |  |  |  |  |  2 JST PH connector 3 way
+  | 1|  |  |  |  |  |  |  |  |  |  1 LED 3 mm green
+ 1|  |  |  |  |  |  |  |  |  | 1|  2 Microswitch DM1-00P-110-3
+  | 1|  |  |  |  |  |  |  |  |  |  1 Molex KK header 2 way
+  | 1|  |  |  |  |  |  |  |  |  |  1 Molex KK housing 2 way
+  | 1|  |  |  |  |  |  |  |  |  |  1 MULTIWATT11 L6203
+  |  |  | 1|  |  |  |  |  |  |  |  1 Nut M3 x 2.4mm nyloc
+ 1|  |  |  |  |  |  |  |  |  |  |  1 Nut M8 x 6.5mm brass
+  | 1|  |  |  |  |  |  |  |  |  |  1 PCB Blinder
+  | 1|  |  |  |  |  |  |  |  |  |  1 ESP-12F ESP8266 WiFi module
+  | 1|  |  |  |  |  |  |  |  |  |  1 Ultra Small 3A buck regulator
+ 2|  |  |  |  |  |  |  |  |  | 2|  4 Screw M2 cap x 10mm
+ 1|  |  |  |  |  |  |  |  |  |  |  1 Screw M3 cap x  5mm
+  |  | 3|  |  |  |  |  |  |  |  |  3 Screw M3 cap x  8mm
+  |  |  | 1|  |  |  |  |  |  |  |  1 Screw M3 cs cap x 12mm
+  |  |  |  |  | 4|  |  |  |  |  |  4 Screw M3 cs cap x  5mm
+  |  |  |  |  |  | 6|  |  |  |  |  6 Screw M3 dome x 12mm
+  |  |  |  | 1|  |  | 1| 1|  |  |  3 Screw M3 grub x  5mm
+  |  | 3|  |  |  |  |  |  |  |  |  3 Screw No8 pan wood x 30mm
+  | 2|  |  |  |  |  |  |  |  |  |  2 SMD capacitor 0805 100n
+  | 2|  |  |  |  |  |  |  |  |  |  2 SMD capacitor 0805 15n
+  | 1|  |  |  |  |  |  |  |  |  |  1 SMD capacitor 0805 220n
+  | 5|  |  |  |  |  |  |  |  |  |  5 SMD resistor 0805 10K 0.125W
+  | 2|  |  |  |  |  |  |  |  |  |  2 SMD resistor 0805 1K 0.125W
+  | 1|  |  |  |  |  |  |  |  |  |  1 SMD resistor 0805 2K2 0.125W
+ 2|  |  |  |  |  |  |  |  |  |  |  2 Washer spring M6 x 1.9mm
+  | 2|  |  |  |  |  |  |  |  |  |  2 Square button 6mm
+ 2|  |  |  |  |  |  |  |  |  | 2|  4 Washer star M2 x 0.3mm
+ 1|  |  |  |  |  |  |  |  |  |  |  1 Washer star M3 x 0.5mm
+  |  |  |  |  |  |  |  |  | 1|  |  1 Threaded rod M8 x 79mm - not shown
+ 2|  |  |  |  |  |  |  |  |  | 2|  4 Washer  M2 x 5mm x 0.3mm
+ 1|  | 3| 1|  |  |  |  |  |  |  |  5 Washer  M3 x 7mm x 0.5mm
+  |  | 3|  |  |  |  |  |  |  |  |  3 Washer  M5 x 10mm x 1mm
+
+Printed:
+ 1|  |  |  |  |  |  |  |  |  |  |  1 base.stl
+  |  | 1|  |  |  |  |  |  |  |  |  1 bracket.stl
+  |  |  | 1|  |  |  |  |  |  |  |  1 cover.stl
+  |  |  |  | 1|  |  |  |  |  |  |  1 idler.stl
+  |  |  |  |  |  |  | 1|  |  |  |  1 pulley.stl
+  |  |  |  |  |  |  |  | 1|  |  |  1 retainer.stl
+  |  |  |  |  |  |  |  |  |  | 1|  1 switch_slide.stl
+
+Assemblies:
+  1 base_assembly
+  1 blinder_PCB_assembly
+  1 bracket_assembly
+  1 cover_assembly
+  1 idler_assembly
+  1 main_assembly
+  1 motor_assembly
+  1 pulley_assembly
+  1 retainer_assembly
+  1 rod_assembly
+  1 switch_slide_assembly

@@ -1,0 +1,7 @@
+motor_assembly:
+Vitamins:
+  6 Screw M3 dome x 12mm
+
+Assemblies:
+  1 base_assembly
+  1 pulley_assembly

@@ -1,0 +1,7 @@
+main_assembly:
+Vitamins:
+  4 Screw M3 cs cap x  5mm
+
+Assemblies:
+  1 bracket_assembly
+  1 cover_assembly

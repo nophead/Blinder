@@ -1,0 +1,12 @@
+bracket_assembly:
+Vitamins:
+  3 Screw M3 cap x  8mm
+  3 Screw No8 pan wood x 30mm
+  3 Washer  M3 x 7mm x 0.5mm
+  3 Washer  M5 x 10mm x 1mm
+
+Printed:
+  1 bracket.stl
+
+Assemblies:
+  1 motor_assembly

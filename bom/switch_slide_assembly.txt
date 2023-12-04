@@ -1,0 +1,10 @@
+switch_slide_assembly:
+Vitamins:
+  2 Heatfit insert M2 x 4mm
+  1 Microswitch DM1-00P-110-3
+  2 Screw M2 cap x 10mm
+  2 Washer star M2 x 0.3mm
+  2 Washer  M2 x 5mm x 0.3mm
+
+Printed:
+  1 switch_slide.stl
