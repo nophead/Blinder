@@ -1,5 +1,5 @@
 //
-// Blinder Copyright Chris Palmer 2018
+// Blinder Copyright Chris Palmer 2023
 // nop.head@gmail.com
 // hydraraptor.blogspot.com
 // GPL3, see COPYING
